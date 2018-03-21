@@ -2,7 +2,7 @@
   "name": "jimmy18dev/native-datetime",
   "autoload": {
     "psr-0": {
-      "jimmy18dev\\NativeDatetime": "src"
+      "jimmy18dev\\NativeDatetime\\": "src"
     }
   }
 }

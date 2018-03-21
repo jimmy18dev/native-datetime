@@ -3,6 +3,10 @@ namespace jimmy18dev\NativeDatetime;
 
 class NativeDatetime{
 
+    public static function hi(){
+        return 'This NativeDatetime class';
+    }
+
     public static function dformat($datetime,$option = 'shortdate'){
 
         if(empty($datetime)) return null;
