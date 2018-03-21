@@ -1,5 +1,9 @@
 {
   "name": "jimmy18dev/native-datetime",
+  "license": "MIT",
+  "require": {
+        "php": ">=5.3.0"
+  },
   "autoload": {
     "psr-0": {
       "jimmy18dev\\NativeDatetime\\": "src"
